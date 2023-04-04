@@ -1,0 +1,66 @@
+1680617426985:$ getUserById 2
+1680618302225:$ getTaskById 2
+1680618489632:help
+1680618509384:get-task-by-id 2
+1680618538800:get-task-by-id 3
+1680618652928:help
+1680618662169:get-task-by-id 1
+1680618675361:get-task-by-id 2
+1680618684584:get-task-by-id 7
+1680618692072:get-task-by-id 5
+1680619312256:get-task-by-id 4
+1680619726736:help
+1680619733256:get-all-tasks
+1680620450049:help
+1680620467977:get-all-tasks
+1680621213561:help
+1680621218895:get-all-tasks
+1680621230440:get-task-by-id
+1680621234808:get-task-by-id 2
+1680621298625:get-task-by-id
+1680621301680:get-task-by-id 2
+1680621322201:help
+1680621327959:get-all-tasks
+1680625026224:help
+1680625045320:add-task ddd fffgsfsff
+1680625059616:add-task 'dfdfsf' 'dffffffff'
+1680627205273:help
+1680627301153:add-task 'sss' 'fff'
+1680627340466:add-task "sss" "fff"
+1680627473744:add-task sss fff
+1680627555665:add-task "Task Name" "Task Description"
+1680627668272:help
+1680627679648:add-task "sss" "ddd"
+1680628478721:help
+1680629113744:add-task "oo" "sdajd"
+1680629159151:add-task "232" "sdajd"
+1680629163023:help
+1680629363657:add-task "232" "sdajd"
+1680629712721:add-task "sss" "sssddd"
+1680629852938:add-task "sss" "3333 dddd"
+1680630500443:add-task "Сделать дейлики" "Победить всех монстров из 4х ежедневных заданий"
+1680630705730:add-task "qqq" "ww заданий"
+1680631037696:help
+1680631048830:delete-task 35
+1680631105432:delete-task 34
+1680631464444:help
+1680631574841:update-task 33 "new 33" "new 33 des"
+1680632115159:help
+1680632143143:get-task-by-id 1
+1680632383712:help
+1680632393703:get-task-by-id 1
+1680632398071:get-task-by-id 3
+1680632409694:get-all-tasks
+1680632566456:et-all-tasksg
+1680632575495:get-all-tasks
+1680632836654:help
+1680632855575:add-task "546sdfds" "6464sdf"
+1680632871135:get-all-tasks
+1680632918050:update-task 36 "36 update" "sss"
+1680632923134:get-all-tasks
+1680632938966:delete-task 36
+1680632941286:get-all-tasks
+1680633276776:help
+1680634049742:version
+1680634100063:help
+1680634110775:add-task
